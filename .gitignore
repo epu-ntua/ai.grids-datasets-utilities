@@ -1,0 +1,13 @@
+notebooks/.datasets_root
+notebooks/converted/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.cache
+.vscode/
+.ruff_cache/
+
+notes/
+data/
+
+src/generation/output/*
